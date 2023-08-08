@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Longest_sequence_of_1s_after_flip {
 
     public static int findMaxOnes(int a[], int k){
 
