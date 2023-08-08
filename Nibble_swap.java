@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class Nibble_swap
 {
 	public static void main(String[] args) {
 	    
